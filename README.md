@@ -34,6 +34,16 @@ I'm Brantley Cragun, and currently I'm a student at Brigham Young University-Ida
 - I've worked on multiple SSO integrations and know the ins and outs of what's required to get an SSO application to work and how to troubleshoot andy potential issues
 - Made a website to show some of my favorite 80's rock bands and info on them such as their origin and well known songs that they developed - https://github.com/cragunbc/wdd130/tree/master/personal_site_80's_rock
 
+## GitHub Statistics
+
+- 97% Commits
+- 3% Pull Requests
+- Most Used Languages:
+  - Javascript
+  - HTML
+  - CSS
+  - C#
+
 ## LinkedIn
 
 - www.linkedin.com/in/brantley-c
