@@ -20,9 +20,19 @@ I'm Brantley Cragun, and currently I'm a student at Brigham Young University-Ida
   - SQL
   - Visual Studio
 
+- Skills
+  - Dependable
+  - Team Oriented
+  - Hard Worker
+  - On Time
+  - Project Management
+  - Network Security
+
 ## Projects and Work
 
-- 
+- Made a program to pull info on current NBA Players for the NBA as well as schedules and conferences for the teams - https://github.com/cragunbc/wdd330
+- I've worked on multiple SSO integrations and know the ins and outs of what's required to get an SSO application to work and how to troubleshoot andy potential issues
+- Made a website to show some of my favorite 80's rock bands and info on them such as their origin and well known songs that they developed - https://github.com/cragunbc/wdd130/tree/master/personal_site_80's_rock
 
 ## LinkedIn
 
